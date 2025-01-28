@@ -1,6 +1,6 @@
 # Projects
 
-## 1. Курсовая работа свот
+## 1. Курсовая работа свот.docx
 
 ### Proposal of strategic alternatives for the development of FEO Rosatom
 
