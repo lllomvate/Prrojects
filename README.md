@@ -22,5 +22,5 @@ Presentation explores a kicksharing dataset through exploratory data analysis an
 Course project focuses on analyzing and optimizing key business processes at GlobalDrive using BPMN and other modeling tools. The main goal is to improve after-sales service and enhance demand forecasting accuracy. The work includes process modeling, problem analysis, and implementation of automation and predictive solutions.
 
 ## 6. Курсовая работа свот.docx
-### Proposal of strategic alternatives for the development of FEO Rosatom
+### "Proposal of strategic alternatives for the development of FEO Rosatom"
 Conducted a strategic analysis of "Federal Environmental Operator Rosatom" using PESTEL, Porter's Five Forces, and SWOT. Developed strategic alternatives to enhance operational efficiency, adopt innovative technologies, and improve client relations. Proposed key growth initiatives focused on sustainability, automation, and international collaboration.
